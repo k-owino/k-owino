@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-owino
+- 👋 Hi, I’m Kennedy Owino Opiyo 
 - 👀 I’m interested in ...web development,mobile application development 
 - 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on ...PHP, JavaScript, python,csharp
