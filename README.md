@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kennedy Owino Opiyo 
-- 👀 I’m interested in ...web development,mobile application development 
-- 🌱 I’m currently learning ...web development 
-- 💞️ I’m looking to collaborate on ...PHP, JavaScript, python,csharp
+- 👀 I’m proficient in ...web development,mobile application development 
+- 💞️ I’m looking to collaborate on ...Frontend and Backend development using HTML, CSS, JavaScript,PHP, Python programmming languages
 - 📫 How to reach me ... owinokennedy60@gmail.com
 
 <!---
